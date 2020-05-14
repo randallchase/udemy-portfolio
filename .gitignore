@@ -1,2 +1,10 @@
-**/__pycache__
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+/static/
+
+### Personal Development Files **
 **/notes.txt
